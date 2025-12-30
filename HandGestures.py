@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 
-## I uploaded this file in the git hub repository
+print("checking wheather the file is running or not")
 
 print(mp.__version__)
 
