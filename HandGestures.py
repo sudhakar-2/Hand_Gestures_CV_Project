@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 
-print("checking wheather the file is running or not")
+print("checking wheather the file is running or not asking")
 
 print(mp.__version__)
 
